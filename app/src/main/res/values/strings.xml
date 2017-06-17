@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ui Design 2</string>
+
+    <string-array name="course_array">
+        <item>Computer Science</item>
+        <item>Bsc</item>
+        <item>IT</item>
+    </string-array>
+</resources>
